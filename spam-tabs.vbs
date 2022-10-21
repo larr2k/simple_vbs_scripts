@@ -1,4 +1,4 @@
 Set x = WScript.CreateObject("WScript.Shell")
 
-x.start "spam-tabs.vbs"
+x.run "spam-tabs.vbs"
 loop
